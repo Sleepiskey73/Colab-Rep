@@ -7,3 +7,6 @@ _Desc_
 
 2. Licence
   * This repository has an Apache 2.0 licence
+
+3. Hypothetical Module
+  * Add another person
