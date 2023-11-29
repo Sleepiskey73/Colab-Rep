@@ -1,3 +1,3 @@
-#This is for colaborators to add to.
+# Contributing!!
 
 _Enter your contributions below:_
