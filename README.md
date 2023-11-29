@@ -9,4 +9,4 @@ _Desc_
   * This repository has an Apache 2.0 licence
 
 3. Hypothetical Module
-  * Let's add another person next time
+  * Let's add another person next time.
